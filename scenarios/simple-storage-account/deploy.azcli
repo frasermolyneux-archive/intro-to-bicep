@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# az login
+# az account set --subscription "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+# Set variables
+resourceGroupName="rg-simple-storage-uksouth"
+location="UK South"
+
+# Create resource group
+az group create --name $resourceGroupName --location "$location"
+
+# Deploy to resource group and provision resources
+az deployment group create \
+    --resource-group $resourceGroupName \
+    --template-file "simple-storage-account.bicep" \
+    --parameters "simple-storage-account.parameters.json"
+
+# Delete the resource group
+az group delete --name $resourceGroupName --yes --no-wait
