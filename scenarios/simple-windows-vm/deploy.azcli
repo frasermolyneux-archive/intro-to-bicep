@@ -1,0 +1,25 @@
+#!/bin/sh
+
+# az login
+# az account set --subscription "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+# Set variables
+resourceGroupName="rg-simple-windows-vm-uksouth"
+location="UK South"
+
+# Create resource group
+az group create --name $resourceGroupName --location "$location"
+
+# Set the admin username and password
+adminUser="addy"
+read adminPassword
+echo $adminPassword
+
+# Deploy to resource group and provision resources
+az deployment group create \
+    --resource-group $resourceGroupName \
+    --template-file "simple-windows-vm.bicep" \
+    --parameters adminUsername=$adminUser adminPassword=$adminPassword
+    
+# Delete the resource group
+az group delete --name $resourceGroupName --yes --no-wait
