@@ -25,3 +25,4 @@ The labs in this repository assume that you have either cloned this repository o
 * [Create and use a local module](labs/create-and-use-a-local-module.md)
 * [Create and use a remote module](labs/create-and-use-a-remote-module.md)
 * [Convert and migrate resources](labs/convert-and-migrate-resources.md)
+* [test and deploy converted templates](labs/test-and-deploy-converted-templates.md)
