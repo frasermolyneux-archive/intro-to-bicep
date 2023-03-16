@@ -9,6 +9,7 @@ This is a supporting repository containing introduction to Bicep examples used w
 * [Simple Storage Account](/demos/simple-storage-account/simple-storage-account.md)
 * [Simple Windows VM](/demos/simple-windows-vm/simple-windows-vm.md)
 * [Local Module (ACR)](/demos/local-module/local-module.md)
+* [Publish Remote Module](/demos/publish-remote-module/publish-remote-module.md)
 
 ---
 
