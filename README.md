@@ -11,6 +11,7 @@ This is a supporting repository containing introduction to Bicep examples used w
 * [Local Module (ACR)](/demos/local-module/local-module.md)
 * [Publish Remote Module](/demos/publish-remote-module/publish-remote-module.md)
 * [Using a Remote Module](/demos/using-a-remote-module/using-a-remote-module.md)
+* [Import Existing Resources](/demos/import-existing-resources/import-existing-resources.md)
 
 ---
 
