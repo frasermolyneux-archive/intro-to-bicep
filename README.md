@@ -34,3 +34,5 @@ The labs in this repository assume that you have either cloned this repository o
 * [Deploy a subscription scoped resource](labs/deploy-a-subscription-scoped-resource.md)
 * [Deploy multi scoped using modules](labs/deploy-multi-scoped-using-modules.md)
 * [Deploy to management groups](labs/deploy-to-management-groups.md)
+* [Create and deploy a template spec](labs/create-and-deploy-a-template-spec.md)
+* [Update and version a template spec](labs/update-and-version-a-template-spec.md)
