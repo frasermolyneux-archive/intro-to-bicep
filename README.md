@@ -12,6 +12,8 @@ This is a supporting repository containing introduction to Bicep examples used w
 * [Publish Remote Module](/demos/publish-remote-module/publish-remote-module.md)
 * [Using a Remote Module](/demos/using-a-remote-module/using-a-remote-module.md)
 * [Import Existing Resources](/demos/import-existing-resources/import-existing-resources.md)
+* [Subscription Scoped Deploy](/demos/sub-scoped-deploy/sub-scoped-deploy.md)
+* [Multi Scoped Deploy](/demos/multi-scoped-deploy/multi-scoped-deploy.md)
 
 ---
 
