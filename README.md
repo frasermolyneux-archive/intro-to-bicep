@@ -27,4 +27,7 @@ The labs in this repository assume that you have either cloned this repository o
 * [Create and use a local module](labs/create-and-use-a-local-module.md)
 * [Create and use a remote module](labs/create-and-use-a-remote-module.md)
 * [Convert and migrate resources](labs/convert-and-migrate-resources.md)
-* [test and deploy converted templates](labs/test-and-deploy-converted-templates.md)
+* [Test and deploy converted templates](labs/test-and-deploy-converted-templates.md)
+* [Deploy a subscription scoped resource](labs/deploy-a-subscription-scoped-resource.md)
+* [Deploy multi scoped using modules](labs/deploy-multi-scoped-using-modules.md)
+* [Deploy to management groups](labs/deploy-to-management-groups.md)
