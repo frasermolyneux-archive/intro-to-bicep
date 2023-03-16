@@ -17,3 +17,4 @@ The labs in this repository assume that you have either cloned this repository o
 
 * [Create a storage account using Bicep](labs/create-a-storage-account-using-bicep.md)
 * [Add parameters and variables](labs/add-parameters-and-variables.md)
+* [Using loops and conditions](labs/using-loops-and-conditions.md)
