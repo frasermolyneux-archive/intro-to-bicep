@@ -14,6 +14,9 @@ This is a supporting repository containing introduction to Bicep examples used w
 * [Import Existing Resources](/demos/import-existing-resources/import-existing-resources.md)
 * [Subscription Scoped Deploy](/demos/sub-scoped-deploy/sub-scoped-deploy.md)
 * [Multi Scoped Deploy](/demos/multi-scoped-deploy/multi-scoped-deploy.md)
+* [Publish a Template Spec](/demos/publish-a-template-spec/publish-a-template-spec.md)
+* [Deploy from a Template Spec](/demos/deploy-from-a-template-spec/deploy-from-a-template-spec.md)
+* [Update a Template Spec](/demos/update-a-template-spec/update-a-template-spec.md)
 
 ---
 
