@@ -2,7 +2,7 @@
 
 This lab follows on from [convert-and-migrate-resources](./../labs/convert-and-migrate-resources.md). Depending on the success you had this will aide you in discovering what went wrong and how you can validate the templates you are applying.
 
-There is some supplementary information on the [Test and deploy your converted template](https://learn.microsoft.com/en-au/training/modules/migrate-azure-resources-bicep/7-exercise-test-deploy-converted-template?tabs=screenshot&pivots=cli) exercise on Microsoft Learn.
+There is some supplementary information on the [Test and deploy your converted template](https://learn.microsoft.com/en-us/training/modules/migrate-azure-resources-bicep/7-exercise-test-deploy-converted-template?tabs=screenshot&pivots=cli) exercise on Microsoft Learn.
 
 ---
 

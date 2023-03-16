@@ -1,6 +1,6 @@
 # [<](./../README.md) Create and use a local module
 
-For this lab we are going to use the [Exercise - Create and use a module](https://learn.microsoft.com/en-au/training/modules/create-composable-bicep-files-using-modules/4-exercise-create-use-module?pivots=cli) on Microsoft Learn.
+For this lab we are going to use the [Exercise - Create and use a module](https://learn.microsoft.com/en-us/training/modules/create-composable-bicep-files-using-modules/4-exercise-create-use-module?pivots=cli) on Microsoft Learn.
 
 ---
 
