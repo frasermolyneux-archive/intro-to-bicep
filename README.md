@@ -16,3 +16,4 @@ This is a supporting repository containing introduction to Bicep examples used w
 The labs in this repository assume that you have either cloned this repository or downloaded the zip file and extracted it to your local machine.
 
 * [Create a storage account using Bicep](labs/create-a-storage-account-using-bicep.md)
+* [Add parameters and variables](labs/add-parameters-and-variables.md)
