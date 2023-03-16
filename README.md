@@ -24,3 +24,4 @@ The labs in this repository assume that you have either cloned this repository o
 * [Using loops and conditions](labs/using-loops-and-conditions.md)
 * [Create and use a local module](labs/create-and-use-a-local-module.md)
 * [Create and use a remote module](labs/create-and-use-a-remote-module.md)
+* [Convert and migrate resources](labs/convert-and-migrate-resources.md)
