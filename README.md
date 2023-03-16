@@ -10,6 +10,7 @@ This is a supporting repository containing introduction to Bicep examples used w
 * [Simple Windows VM](/demos/simple-windows-vm/simple-windows-vm.md)
 * [Local Module (ACR)](/demos/local-module/local-module.md)
 * [Publish Remote Module](/demos/publish-remote-module/publish-remote-module.md)
+* [Using a Remote Module](/demos/using-a-remote-module/using-a-remote-module.md)
 
 ---
 
@@ -21,3 +22,4 @@ The labs in this repository assume that you have either cloned this repository o
 * [Add parameters and variables](labs/add-parameters-and-variables.md)
 * [Using loops and conditions](labs/using-loops-and-conditions.md)
 * [Create and use a local module](labs/create-and-use-a-local-module.md)
+* [Create and use a remote module](labs/create-and-use-a-remote-module.md)
